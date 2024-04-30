@@ -1,12 +1,12 @@
 # Landing Page Copies
 
 ## Content Glossary
-- [🚀 Hero Section](#hero-section)
-- [🧩 Problem Description Section](#problem-description-section)
-- [💡 Solution Presentation Section](#solution-presentation-section)
-- [🌟 Features Section](#features-section)
-- [📢 Final Call to Action Section](#final-call-to-action-section)
-- [💌 Popup Form](#popup-form)
+- [🚀 Hero Section](#-hero-section)
+- [🧩 Problem Description Section](#-problem-description-section)
+- [💡 Solution Presentation Section](#-solution-presentation-section)
+- [🌟 Features Section](#-features-section)
+- [📢 Final Call to Action Section](#-final-call-to-action-section)
+- [💌 Popup Form](#-popup-form)
 
 ---
 
